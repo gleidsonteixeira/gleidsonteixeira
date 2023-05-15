@@ -17,16 +17,24 @@ Eu sou __Gleidson Teixeira__, na programação desde 2012 venho atuando no desen
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 
-<ul style="margin:0 !important;padding:0 !important;box-sizing:border-box !important;list-style:none !important;display:flex !important;gap: 16px !important;justify-content: space-between !important;">
-<li style="flex: 1 !important;list-style:none !important;">
+<!-- <ul style="margin:0 !important;padding:0 !important;box-sizing:border-box !important;list-style:none !important;display:flex !important;gap: 16px !important;justify-content: space-between !important;">
+<li style="flex: 1 !important;list-style:none !important;"> -->
+<table border="0" style="border:0;">
+<tr>
+<td>
 
 ![Meus status](https://github-readme-stats.vercel.app/api?username=gleidsonteixeira&title_color=adbac7&text_color=adbac7&theme=transparent&border_color=444c56)
-
-</li>
-
-<li style="flex: 1 !important;list-style:none !important;">
+</td>
+<td>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleidsonteixeira&layout=donut&title_color=adbac7&text_color=adbac7&theme=transparent&border_color=444c56)
+</td>
+</tr>
+</table>
 
-</li>
-</ul>
+<!-- </li>
+<li style="flex: 1 !important;list-style:none !important;"> -->
+
+
+<!-- </li>
+</ul> -->
