@@ -18,13 +18,13 @@ Eu sou __Gleidson Teixeira__, na programação desde 2012 venho atuando no desen
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 
 <ul style="margin:0;padding:0;box-sizing:border-box;list-style:none;display:flex;gap: 16px;justify-content: space-between;">
-<li style="flex: 1;">
+<li style="flex: 1;list-style:none;">
 
 ![Meus status](https://github-readme-stats.vercel.app/api?username=gleidsonteixeira&title_color=adbac7&text_color=adbac7&theme=transparent&border_color=444c56)
 
 </li>
 
-<li style="flex: 1;">
+<li style="flex: 1;list-style:none;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleidsonteixeira&layout=donut&title_color=adbac7&text_color=adbac7&theme=transparent&border_color=444c56)
 
