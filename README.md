@@ -23,11 +23,11 @@ Eu sou __Gleidson Teixeira__, na programação desde 2012 venho atuando no desen
 <tr>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleidsonteixeira&layout=donut&title_color=adbac7&text_color=adbac7&theme=transparent&border_color=444c56)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleidsonteixeira&layout=donut&title_color=adbac7&text_color=adbac7&theme=transparent&hide_border=true)
 </td>
 <td>
 
-![Meus status](https://github-readme-stats.vercel.app/api?username=gleidsonteixeira&title_color=adbac7&text_color=adbac7&theme=transparent&border_color=444c56)
+![Meus status](https://github-readme-stats.vercel.app/api?username=gleidsonteixeira&title_color=adbac7&text_color=adbac7&theme=transparent&hide_border=true)
 </td>
 </tr>
 </table>
