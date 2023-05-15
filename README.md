@@ -18,6 +18,6 @@ Eu sou __Gleidson Teixeira__, na programação desde 2012 venho atuando no desen
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 
 
-![Meus status](https://github-readme-stats.vercel.app/api?username=gleidsonteixeira&border_color=444c56&title_color=adbac7)
+![Meus status](https://github-readme-stats.vercel.app/api?username=gleidsonteixeira&border_color=444c56&title_color=adbac7&bg_color=00000000)
 
 <!-- &theme=transparent -->
