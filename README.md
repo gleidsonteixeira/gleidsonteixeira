@@ -5,8 +5,7 @@ Eu sou __Gleidson Teixeira__, na programação desde 2012 venho atuando no desen
 
 Atualmente ajudo pessoas a aprender programação na [__Digital College__](https://digitalcollege.com.br/) e com isso transformarem suas vidas :heart:.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gleidsondeveloper)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleidson-teixeira/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCKEsrPEIsH5ZvESF2hcZezg)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gleidsondeveloper)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleidson-teixeira/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCKEsrPEIsH5ZvESF2hcZezg)
 
 
 
