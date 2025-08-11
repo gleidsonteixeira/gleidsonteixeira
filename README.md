@@ -2,7 +2,7 @@
 # Fala galera :metal:
 
 <div style="display:flex;justify-content: center;align-items:center;">
-  <a href="https://www.instagram.com/gleidsondeveloper" style="display:flex;flex-direction: flex-column;justify-content: center;align-items:center;gap:10px;">
+  <a href="https://www.instagram.com/gleidsondeveloper" style="display:flex;flex-direction: flex-column;justify-content: center;align-items:center;gap:10px;color:#7CFFB0;">
     Instagram
   </a>
 </div>
