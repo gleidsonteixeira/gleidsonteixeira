@@ -19,7 +19,7 @@ Atualmente ajudo pessoas a aprender programação na [__Digital College__](https
 
 <!-- <ul style="margin:0 !important;padding:0 !important;box-sizing:border-box !important;list-style:none !important;display:flex !important;gap: 16px !important;justify-content: space-between !important;">
 <li style="flex: 1 !important;list-style:none !important;"> -->
-<table border="0" style="border:0;">
+<!-- <table border="0" style="border:0;">
 <tr>
 <td>
 
@@ -30,4 +30,4 @@ Atualmente ajudo pessoas a aprender programação na [__Digital College__](https
 ![Meus status](https://github-readme-stats.vercel.app/api?username=gleidsonteixeira&title_color=adbac7&text_color=adbac7&theme=transparent&hide_border=true)
 </td>
 </tr>
-</table>
+</table> -->
