@@ -1,6 +1,13 @@
 
 # Fala galera :metal:
 
+<div style="display:flex;justify-content: center;align-items:center;">
+  <a href="https://www.instagram.com/gleidsondeveloper" style="display:flex;flex-direction: flex-column;justify-content: center;align-items:center;gap:10px;">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAe5JREFUWEftljFOQzEMhr8egh1OAlyAmYEBDsABmICFjYWNCRDHYABmNnYEd+AA0F+KKze181Jl6NJI1dN7Tewvv+3EMzY8Zhv2zxagR4FTYBfYL09FTe/1+Kk+vAHvgJ71f4upLQA5eZgbOBjMEzl/mtu4iuxkAHL6WhaYAb1qNz3DK2YbeATO6sUZgJxroRwe9nhM5ghEIbws/8vW0iYiAC2Q9Bo9ORL5PgbOgRfgDrgtICsbihzIuSBCyTrVeAZOytwj4LeEVOHc8zZaAIqXIKKh8EhWPS3DfaLdABfAR3l+Ad9RGCIATVTsVuJVvrcqwxL2HtgBPh19aLcFIKnq+rXklN1rV+OmiMC1RvD1WgNYUnYdAF+aU+pE1dMN8FdkqxXoSU4pYLGu1w8DhAaCDM1yaBjAlInk9xwZ6DCAJWCrPAWShXAYQJeJan/lMHHbtzyJTtFhACWYVMhKzQDlPApTN0DrIPKlKEdSQz9/ZWcXWDeAxTpLtqxPEIjyI7uyw9xo3QU66cImosRcILZzOW/1Cl65pfMhArBYjvYCvjTTKz4C8KfZlAo9t3PTXtZweGK7dHrbMYOqu6GwfDOAerFlvBlPu9xSpnXXnCboVMs12hk3O+J1ej7bUW+LPlUVi9yZUqAnyYbmbAH+AWMWmyEhaRQSAAAAAElFTkSuQmCC"/>
+    Instagram
+  </a>
+</div>
+
 Eu sou __Gleidson Teixeira__, na programação desde 2012 venho atuando no desenvolvimento de sites, blogs, ecommerce, dashboards, etc, com empenho e dedicação para atender as expectativas de empresas e clientes por onde passei.
 
 Atualmente ajudo pessoas a aprender programação na [__Digital College__](https://digitalcollege.com.br/) e com isso transformarem suas vidas :heart:.
