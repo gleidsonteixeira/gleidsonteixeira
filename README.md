@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">🎓 Conhecimento adquirido nesses anos:</h5>
+<h5 align="left">Conhecimento adquirido nesses anos:</h5>
 
 ###
 
